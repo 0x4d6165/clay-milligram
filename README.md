@@ -1,2 +1,2 @@
 # clay-milligram
-A clay translation of the milligram CSS framework
+A Haskell [clay](http://fvisser.nl/clay/) translation of the [milligram CSS framework](https://milligram.github.io/).
